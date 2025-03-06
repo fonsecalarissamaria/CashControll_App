@@ -1,0 +1,21 @@
+					Descrição do Aplicativo Cash Control
+
+
+Esse aplicativo visa simplificar o controle de gastos, oferecendo uma abordagem direta e eficiente para gerenciar as finanças mensais.
+
+Inserir Gastos:
+A função principal do aplicativo é permitir que você insira seus gastos de forma rápida e fácil. 
+Oferecemos opções pré-definidas de R$100, R$500 e R$1000 para agilizar o processo. 
+Basta selecionar o valor desejado e clicar em "Inserir Gastos" para registrar sua despesa.
+
+Gerenciar Limite Mensal:
+Entendemos que cada indivíduo tem necessidades e limitações diferentes quando se trata de gastos mensais. 
+Por isso, oferecemos a opção de personalizar seu limite mensal. 
+Você pode acessar seu perfil e ajustar o limite estipulado, que é definido como R$5000 por padrão.
+
+Dicas de Economia:
+Visando ajudar você a alcançar suas metas financeiras, fornecemos um link para dicas de economia. 
+Explore estratégias e conselhos úteis para otimizar seus gastos e maximizar suas economias.
+
+Tecnologia Utilizada:
+O aplicativo utiliza a API Dimensions para garantir uma experiência consistente e adaptável em diferentes dispositivos.
